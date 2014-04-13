@@ -1,3 +1,5 @@
+require_relative "version"
+
 require_relative "migrations/001"
 require_relative "migrations/002"
 require_relative "migrations/003"
